@@ -10,4 +10,5 @@ Finally type `console` in SBT and then type `Example.image.draw`. If you see a p
 
 You can edit the file `Example.scala` to create your own code. See [Creative Scala][creative-scala] for more!
 
-[creative-scala]: http://underscore.io/training/courses/creative-scala/ 
+[creative-scala]: http://underscore.io/training/courses/creative-scala/    
+Srini  / Added
